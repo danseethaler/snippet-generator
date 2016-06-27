@@ -2,7 +2,7 @@
   "name": "snippet-generator",
   "main": "./lib/snippet-generator",
   "version": "0.1.0",
-  "description": "Instantly generate a snippet with selected text",
+  "description": "Insanely fast way to turn your code into a snippet.",
   "keywords": [
     "snippet",
     "creation",
