@@ -1,7 +1,7 @@
 {
   "name": "snippet-generator",
   "main": "./lib/snippet-generator",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Insanely fast way to turn your code into a snippet.",
   "keywords": [
     "snippet",
