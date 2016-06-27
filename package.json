@@ -1,23 +1,23 @@
 {
-    "name": "snippet-generator",
-    "main": "./lib/snippet-generator",
-    "version": "0.0.0",
-    "description": "Instantly generate a snippet with selected text",
-    "keywords": [
-        "snippet",
-        "creation",
-        "generator",
-        "generation",
-        "snippet creation",
-        "snippet generation"
-    ],
-    "activationCommands": {
-        "atom-workspace": "snippet-generator:generate"
-    },
-    "repository": "https://github.com/danseethaler/snippet-generator",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    },
-    "dependencies": {}
+  "name": "snippet-generator",
+  "main": "./lib/snippet-generator",
+  "version": "0.1.0",
+  "description": "Instantly generate a snippet with selected text",
+  "keywords": [
+    "snippet",
+    "creation",
+    "generator",
+    "generation",
+    "snippet creation",
+    "snippet generation"
+  ],
+  "activationCommands": {
+    "atom-workspace": "snippet-generator:generate"
+  },
+  "repository": "https://github.com/danseethaler/snippet-generator",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
 }
