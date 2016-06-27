@@ -14,7 +14,7 @@
     "activationCommands": {
         "atom-workspace": "snippet-generator:generate"
     },
-    "repository": "https://github.com/atom/snippet-generator",
+    "repository": "https://github.com/danseethaler/snippet-generator",
     "license": "MIT",
     "engines": {
         "atom": ">=1.0.0 <2.0.0"
